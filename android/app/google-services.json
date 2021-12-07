@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405315394238",
+    "firebase_url": "https://wild-sheep-chase.firebaseio.com",
+    "project_id": "wild-sheep-chase",
+    "storage_bucket": "wild-sheep-chase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405315394238:android:243503daec9eae113a1cef",
+        "android_client_info": {
+          "package_name": "com.justinlohkingwei.wild_sheep_chase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405315394238-pv8odo0moppg61icbdul4un4lc3mbtm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0-3QxoB3YVl5QvFb5up7CAAHX5WOK7Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405315394238-pv8odo0moppg61icbdul4un4lc3mbtm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
